@@ -1,3 +1,4 @@
 http://speedtest.tokyo2.linode.com/100MB-tokyo2.bin
 https://speed.cloudflare.com/__down?bytes=104857600  (100MB)  
 http://cachefly.cachefly.net/10mb.tes
+https://speed.bestip.one/__down?bytes=50000000
